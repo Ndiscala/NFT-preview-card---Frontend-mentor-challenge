@@ -1,0 +1,46 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+
+}
+.contenedor1 {
+    background-color: hsl(216, 50%, 16%);
+    padding: 50px;
+    margin: 30px 450px 0 450px;
+    border-radius: 15px;
+    
+}
+body img{
+    border-radius: 15px;
+    height: 250px;
+    width: 250px;  
+}
+body img:hover{
+    background-image: hsl(178, 100%, 50%);
+
+}
+
+h1{
+    color: hsl(0, 0%, 100%);
+    font-size: 20px;
+}
+h1:hover{
+    color: hsl(178, 100%, 50%);
+    
+}
+h3{
+    color: hsl(178, 100%, 50%);
+}
+
+
+p{
+    color: hsl(0, 0%, 100%);
+}
+
+p b:hover{
+    color:hsl(178, 100%, 50%);
+
+}
+p b{
+    color:hsl(0, 0%, 100%);
+}
